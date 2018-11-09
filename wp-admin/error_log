@@ -1,0 +1,18 @@
+[30-Jul-2018 12:06:58 UTC] WordPress database error Unknown column '_go_' in 'field list' for query SELECT _go_
+[30-Jul-2018 12:22:55 UTC] PHP Warning:  sprintf(): Too few arguments in /home/dpws/public_html/GODIS/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[30-Jul-2018 12:22:56 UTC] PHP Warning:  sprintf(): Too few arguments in /home/dpws/public_html/GODIS/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[30-Jul-2018 12:22:57 UTC] PHP Warning:  sprintf(): Too few arguments in /home/dpws/public_html/GODIS/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[30-Jul-2018 12:22:58 UTC] PHP Warning:  sprintf(): Too few arguments in /home/dpws/public_html/GODIS/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[30-Jul-2018 12:22:58 UTC] PHP Warning:  sprintf(): Too few arguments in /home/dpws/public_html/GODIS/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[30-Jul-2018 12:22:58 UTC] PHP Warning:  sprintf(): Too few arguments in /home/dpws/public_html/GODIS/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[30-Jul-2018 12:23:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/dpws/public_html/GODIS/wp-includes/update.php on line 155
+[30-Jul-2018 12:23:05 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/dpws/public_html/GODIS/wp-includes/update.php on line 347
+[01-Aug-2018 07:05:42 UTC] PHP Parse error:  syntax error, unexpected '$', expecting variable (T_VARIABLE) in /home/dpws/public_html/GODIS/wp-content/themes/bridge-child/functions.php on line 71
+[01-Aug-2018 07:05:52 UTC] PHP Parse error:  syntax error, unexpected '$', expecting variable (T_VARIABLE) in /home/dpws/public_html/GODIS/wp-content/themes/bridge-child/functions.php on line 71
+[01-Aug-2018 07:06:26 UTC] PHP Parse error:  syntax error, unexpected '$', expecting variable (T_VARIABLE) in /home/dpws/public_html/GODIS/wp-content/themes/bridge-child/functions.php on line 71
+[03-Aug-2018 06:25:52 UTC] The WC_Cart::get_item_data function is deprecated since version 3.3. Replace with wc_get_formatted_cart_item_data.
+[03-Aug-2018 06:25:52 UTC] The WC_Cart::get_item_data function is deprecated since version 3.3. Replace with wc_get_formatted_cart_item_data.
+[03-Aug-2018 06:25:52 UTC] The WC_Cart::get_item_data function is deprecated since version 3.3. Replace with wc_get_formatted_cart_item_data.
+[03-Aug-2018 06:25:52 UTC] The WC_Cart::get_item_data function is deprecated since version 3.3. Replace with wc_get_formatted_cart_item_data.
+[03-Aug-2018 06:25:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Aug-2018 06:25:52 UTC] The WC_Cart::get_checkout_url function is deprecated since version 2.5. Replace with wc_get_checkout_url.
